@@ -14,3 +14,4 @@ Requirements:
 References:
 
  - Michael Nielsen  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+ - Alfredo Canziani [NYU Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
